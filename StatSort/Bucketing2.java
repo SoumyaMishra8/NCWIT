@@ -2,7 +2,6 @@ import java.time.LocalTime;
 import java.util.Arrays;
 import java.util.*;
 import java.util.Random;
-
 public class Bucketing2 {
    public static double parta,partb,partc,zscore,sd; 
    public static int bucketValue;
